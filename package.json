@@ -1,0 +1,27 @@
+{
+  "name": "glama-submit",
+  "version": "1.0.0",
+  "description": "Bulk-submit all your MCP server repos to glama.ai by pushing glama.json via the GitHub API",
+  "type": "module",
+  "bin": {
+    "glama-submit": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dry-run": "node index.js --dry-run"
+  },
+  "keywords": [
+    "glama",
+    "mcp",
+    "model-context-protocol",
+    "github",
+    "cli",
+    "registry",
+    "submit"
+  ],
+  "author": "nirholas",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
