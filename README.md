@@ -58,4 +58,4 @@ A repo is considered an MCP server if its name, description, or GitHub topics co
 
 ## License
 
-MIT
+All rights reserved. See [LICENSE](LICENSE).
