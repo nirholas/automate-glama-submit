@@ -21,6 +21,14 @@
   ],
   "author": "nirholas",
   "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nirholas/automate-glama-submit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nirholas/automate-glama-submit/issues"
+  },
+  "homepage": "https://github.com/nirholas/automate-glama-submit#readme",
   "engines": {
     "node": ">=18"
   }

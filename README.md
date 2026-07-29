@@ -56,6 +56,10 @@ A repo is considered an MCP server if its name, description, or GitHub topics co
 - `modelcontextprotocol`
 - `model context protocol`
 
+## Documentation
+
+- [How it works](docs/how-it-works.md) — detailed walkthrough of the submission flow.
+
 ## License
 
 All rights reserved. See [LICENSE](LICENSE).
