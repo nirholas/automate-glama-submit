@@ -1,0 +1,28 @@
+# automate-glama-submit
+
+> Bulk-submit all your MCP server repos to glama.ai in one command.
+
+automate-glama-submit is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md): install, usage and reference
+- [How it works](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#how-it-works)
+- [Usage](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#usage)
+- [Requirements](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#requirements)
+- [Token setup](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#token-setup)
+- [What gets committed](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#what-gets-committed)
+- [MCP detection](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#mcp-detection)
+- [Documentation](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#documentation)
+- [License](https://github.com/nirholas/automate-glama-submit/blob/HEAD/README.md#license)
+- [AGENTS.md](https://github.com/nirholas/automate-glama-submit/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/automate-glama-submit/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/automate-glama-submit)
+- [Issues](https://github.com/nirholas/automate-glama-submit/issues)
+- [Discussions](https://github.com/nirholas/automate-glama-submit/discussions)
+- [Homepage](https://github.com/nirholas/automate-glama-submit)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)

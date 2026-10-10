@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "automate-glama-submit"
+abstract: "Bulk-submit all your MCP server repos to glama.ai in one command."
+repository-code: "https://github.com/nirholas/automate-glama-submit"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
