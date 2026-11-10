@@ -1,0 +1,16 @@
+{
+  "name": "glama-submit",
+  "version": "1.0.0",
+  "description": "Bulk-add glama.json to every public MCP server repo you own so glama.ai can list them, with a dry-run mode.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/automate-glama-submit",
+  "homepage": "https://github.com/nirholas/automate-glama-submit",
+  "keywords": [
+    "glama",
+    "mcp",
+    "registry",
+    "github-api"
+  ]
+}
